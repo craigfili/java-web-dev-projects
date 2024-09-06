@@ -8,6 +8,7 @@ public class Area {
 //        final double PI = 3.14159;
         double radius;
         double area;
+        //
 
         System.out.println("Enter a number for the radius: ");
         radius = input.nextDouble();
